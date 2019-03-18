@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+              android:orientation="vertical"
+             tools:context=".tab2">
+
+
+        <de.hdodenhof.circleimageview.CircleImageView
+                android:src="@drawable/l1"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="start"
+                android:layout_marginLeft="30dp"
+                android:layout_marginStart="30dp"
+                android:id="@+id/imageView2"/>
+
+        <de.hdodenhof.circleimageview.CircleImageView
+                android:src="@drawable/l13"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginStart="230dp"
+                android:id="@+id/imageView5"
+                android:layout_marginLeft="230dp"/>
+
+        <TextView
+                android:text="@string/firman"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="25sp"
+                android:textColor="@android:color/black"
+                android:layout_marginTop="150dp"
+                android:layout_marginStart="70dp"
+                android:layout_marginLeft="70dp"
+                tools:ignore="RtlCompat"/>
+        <TextView
+                android:text="@string/didik"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="25sp"
+                android:textColor="@android:color/black"
+                android:layout_marginTop="150dp"
+                android:layout_marginStart="280dp"
+                android:layout_marginLeft="280dp"/>
+
+        <de.hdodenhof.circleimageview.CircleImageView
+                android:src="@drawable/l5"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="start"
+                android:layout_marginTop="200dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginStart="30dp"
+                android:id="@+id/imageView6"/>
+
+        <de.hdodenhof.circleimageview.CircleImageView
+                android:src="@drawable/ayu"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginStart="230dp"
+                android:layout_marginLeft="230dp"
+                android:layout_marginTop="200dp"
+                android:id="@+id/imageView7"/>
+
+        <TextView
+                android:text="@string/luhur"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="25sp"
+                android:textColor="@android:color/black"
+                android:layout_marginTop="360dp"
+                android:layout_marginStart="70dp"
+                android:layout_marginLeft="70dp"
+                tools:ignore="RtlCompat"/>
+
+        <TextView
+                android:text="@string/ayu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="25sp"
+                android:textColor="@android:color/black"
+                android:layout_marginTop="360dp"
+                android:layout_marginStart="290dp"
+                android:layout_marginLeft="290dp"/>
+
+        <de.hdodenhof.circleimageview.CircleImageView
+                android:src="@drawable/l12"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="start"
+                android:layout_marginTop="400dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginStart="30dp"
+                android:id="@+id/imageView8"/>
+
+        <de.hdodenhof.circleimageview.CircleImageView
+                android:src="@drawable/p3"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginStart="230dp"
+                android:layout_marginLeft="230dp"
+                android:layout_marginTop="400dp"
+                android:id="@+id/imageView9"/>
+
+        <TextView
+                android:text="@string/riki"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="25sp"
+                android:textColor="@android:color/black"
+                android:layout_marginTop="560dp"
+                android:layout_marginStart="80dp"
+                android:layout_marginLeft="80dp"
+                tools:ignore="RtlCompat"/>
+
+        <TextView
+                android:text="@string/fuji"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="25sp"
+                android:textColor="@android:color/black"
+                android:layout_marginTop="560dp"
+                android:layout_marginStart="290dp"
+                android:layout_marginLeft="290dp"/>
+
+
+</FrameLayout>

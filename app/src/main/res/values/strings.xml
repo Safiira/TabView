@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TabView</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="brain">TODO</string>
+    <string name="hafidh_nur_anafi">Hafidh Nur Anafi</string>
+    <string name="company">TODO</string>
+    <string name="idea">TODO</string>
+    <string name="universitas_pgri_semarang">Universitas PGRI Semarang</string>
+    <string name="informatika">Informatika</string>
+    <string name="black">TODO</string>
+    <string name="firman">Firman</string>
+    <string name="didik">Didik</string>
+    <string name="luhur">Luhur</string>
+    <string name="ayu">Ayu</string>
+    <string name="riki">Riki</string>
+    <string name="fuji">Fuji</string>
+    <string name="button">Button</string>
+    <string name="upgris">UNIVERSITAS PGRI SEMARANG</string>
+    <string name="upgris1">
+        Universitas PGRI Semarang adalah salah satu Universitas yang terdapat pada Kota Semarang. Tujuan pendiriannya adalah untuk menyiapkan calon pemimpin
+        yang unggul dan berkarakter kebangsaan sehingga dapat menjadi teladan dalam kehidupan berbangsa dan bernegara dalam mencapai kesejahteraan seluruh masyarakat Indonesia.
+    </string>
+    <string name="apainfo">Apa itu Teknik Informatika?</string>
+    <string name="apainfo1">Program studi Teknik Informatika mempelajari dan menerapkan prinsip-prinsip ilmu komputer dan analisa matematis untuk desain, pengembangan, pengujian, dan evaluasi perangkat lunak, sistem operasi dan kerja komputer.
+        Pada prodi ini akan diajarkan mulai dari menghasilkan ide kreatif, kemudian merealisasikan ide tersebut, memecah fungsi-fungsi, dan menciptakan struktur instruksi yang sangat detil dalam bahasa pemrograman untuk mengajarkan komputer apa saja yang harus dilakukan.
+        Mahasiswa Ilmu Komputer harus menjadi ahli dalam sistem operasi dan aplikasi untuk memastikan bahwa dasar sistem operasi bekerja dengan baik.
+    </string>
+    <string name="kenapainfo">Kenapa memilih Informatika? </string>
+    <string name="kenapainfo1">Untuk menguasai Teknik Informatika, paling tidak kamu memahami logika dan matematika. Mahasiswa Teknik Informatika akan menghabiskan banyak waktunya dengan pemrograman, dan pemrograman itu sendiri adalah perwujudan dari algoritma (matematika dan logika).
+        Tapi, kalau kamu tertarik dengan dunia teknologi dan memiliki minat untuk mengembangkan sebuah perangkat lunak maka program studi ini tentu bisa menjadi pilihan kamu.
+    </string>
+</resources>

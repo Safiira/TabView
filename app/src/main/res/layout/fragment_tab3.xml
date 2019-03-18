@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context=".tab3">
+
+
+    <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="230dp"
+            android:src="@drawable/upgris"
+            android:scaleType="fitXY"
+            android:contentDescription="@string/brain"/>
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="240dp"
+            android:gravity="center"
+            android:textSize="30sp"
+            android:text="@string/upgris"
+            android:textColor="@android:color/white"
+            android:background="@android:color/black"/>
+
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="240dp"
+            android:layout_marginTop="340dp"
+            android:text="@string/upgris1"
+            android:textSize="20sp"
+            android:textColor="@android:color/black"
+            android:textAlignment="textStart"
+            android:textStyle="normal"/>
+
+
+</RelativeLayout>
